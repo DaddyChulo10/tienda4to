@@ -1,0 +1,18 @@
+.msgIncorrecto{
+    color: red;
+    font-size:18px;
+    line-height: 20px;
+    font-family: cursive;
+    font-style: bold;
+}
+.cajaError{
+    border: 3px solid red;
+    border-radius: 3px;
+}
+.cajaBien{
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.elemento{
+    padding: 10px;
+}
